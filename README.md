@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am a french computer science student, always ready to experiment new technologies and learn.
 
 <!--
 **AirCfr/AirCfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
